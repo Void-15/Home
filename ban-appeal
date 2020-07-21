@@ -1,9 +1,15 @@
 <!DOCTYPE html>
 <html>
    <head>
+   	<meta charset="UTF-8">
    	<link rel="icon" href="voidlogo.png">
+   	<link rel="stylesheet" href="css.css">
       <title>Void15 - Ban Appeal</title>
    </head>
+   <header style="background-image: url('blankheader.png'); border-radius:15px; font-style:normal;">
+
+			<a href="menu.html" class="hover" class = "active" style="padding:15px; border-radius:15px;">Back to home page</a>   
+          </header>
    <body>
       
       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScZ7_MEB8hyXYbxDxBAqMTRCm8GrVLa3WJzrCjPAzPYj4SZ8A/viewform?embedded=true" width="640" height="440" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
@@ -12,7 +18,8 @@
       <h2 style="color:#cdcdcd; font-size:15px;">Any lying found within your appeal will cause your appeal to be disregaurded</h2>
       <h2 style="color:#cdcdcd; font-size:15px;">Please be thorough with your response</h2>
       <h2 style="color:#cdcdcd; font-size:15px;">Appeals will be read every few days</h2>
-      <h2 style="color:#cdcdcd; font-size:15px; display:inline-block;">If you haven't already, join our discord <a  target="_blank" href="redirect.html">HERE</a></h2>
+      <h2 style="color:#cdcdcd; font-size:15px; display:inline-block;">If you haven't already, join our discord <a  target="_blank" href="redirect.html" style="background-color:inherit; color:#cdcdcd;">HERE</a></h2>
+      <h2 style="color:#cdcdcd; font-size:15px; display:inline-block;">You may also fill out the form through Google Forms directly by clicking <a  target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScZ7_MEB8hyXYbxDxBAqMTRCm8GrVLa3WJzrCjPAzPYj4SZ8A/viewform" style="background-color:inherit; color:#cdcdcd;">HERE</a></h2>
       <br><br><img src="voidlogo.png" style="width:7.5%;"></aside>
 
    </body>
